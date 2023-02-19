@@ -1,0 +1,44 @@
+{
+  "jockeyVersion" : "1.9.0",
+  "settings" : {
+    "color" : {
+      "hex" : "jockey"
+    }
+  },
+  "tabIndex" : 0,
+  "tabs" : [
+    {
+      "map" : {
+        "modules" : [
+          {
+            "info" : {
+              "area" : {
+                "origin" : {
+                  "x" : 0,
+                  "y" : 0
+                },
+                "size" : {
+                  "height" : 6,
+                  "width" : 6
+                }
+              },
+              "color" : null,
+              "extraOSCAddresses" : [
+
+              ],
+              "gameControllerElement" : null,
+              "label" : null,
+              "oscAddress" : "/jXYSlider_0",
+              "resendReceivedOSC" : false,
+              "scale" : null
+            },
+            "type" : "jXYSlider",
+            "x" : 0,
+            "y" : 0
+          }
+        ]
+      },
+      "name" : "Tab 1"
+    }
+  ]
+}
